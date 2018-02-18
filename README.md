@@ -11,4 +11,4 @@ This repo contains a record of my _nth_ attempt to learn Haskell, this time via 
 5. 02/04/2018 - Completed Ch 3 Exercises
 6. 02/05/2018 - Completed Ch 4 Exercises
 7. 02/10/2018 - Completed Ch 5 Exercises
-
+8. 02/18/2018 - Completed Ch 6 Exercises
